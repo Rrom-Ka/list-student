@@ -348,7 +348,7 @@ function getStudentItem(studentObj=studentsList[0]) {
     let stringSingleStudentsFaculty=document.createElement('span');
     let stringSingleStudentsBithday=document.createElement('span');
     let stringSingleStudentStady=document.createElement('span');
-    //присваиваем в текст 
+    //присваиваем в текст
     stringSingleStudentsFIO.textContent=fioStudentObj;
     stringSingleStudentsFaculty.textContent=facultyStudentObj;
     stringSingleStudentsBithday.textContent=dateBirthdayAndOld;
