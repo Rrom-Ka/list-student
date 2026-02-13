@@ -39,4 +39,4 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com
+git clone https://github.com/Rrom-Ka/list-student.git
